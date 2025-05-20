@@ -47,7 +47,7 @@ Motivated Computer Science student and experienced high school teacher with foun
 
 ### Design & Documentation
 <div>
-    <img src="Images/Figma.png" height="50" title="Figma">
+    <img src="Images/figma.png" height="50" title="Figma">
     <img src="Images/lucid.png" height="50" title="LucidChart">
     <img src="Images/notion.png" height="50" title="Notion">
 </div>
