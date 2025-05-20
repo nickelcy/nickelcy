@@ -22,41 +22,41 @@ Motivated Computer Science student and experienced high school teacher with foun
 ## Technologies I Teach and Use:
 ### Frontend
 <div>
-    <img src="images/html.png" height="50" title="HTML">
-    <img src="images/css.png" height="50" title="CSS">
-    <img src="images/js.png" height="50" title="JavaScript">
-    <img src="images/react-js.png" height="50" title="React.js">
+    <img src="Images/html.png" height="50" title="HTML">
+    <img src="Images/css.png" height="50" title="CSS">
+    <img src="Images/js.png" height="50" title="JavaScript">
+    <img src="Images/react-js.png" height="50" title="React.js">
 </div>
 
 
 ### Backend 
 <div>
-    <img src="images/node-js.png" height="50" title="Node.js">
+    <img src="Images/node-js.png" height="50" title="Node.js">
     <img src="Images/express-js.png" height="50" title="Express.js">
-    <img src="images/mysql.png" height="50" title="MySQL">
+    <img src="Images/mysql.png" height="50" title="MySQL">
 </div>
 
 ### Tools
 <div>
-    <img src="images/vscode.png" height="50" title="VsCode">
+    <img src="Images/vscode.png" height="50" title="VsCode">
     <img src="Images/workbench.png" height="50" title="MySQL Workbench">
     <img src="Images/git.png" height="50" title="Git">
-    <img src="images/github.png" height="50" title="Github">
+    <img src="Images/github.png" height="50" title="Github">
 
 </div>
 
 ### Design & Documentation
 <div>
-    <img src="images/Figma.png" height="50" title="Figma">
-    <img src="images/lucid.png" height="50" title="LucidChart">
-    <img src="images/notion.png" height="50" title="Notion">
+    <img src="Images/Figma.png" height="50" title="Figma">
+    <img src="Images/lucid.png" height="50" title="LucidChart">
+    <img src="Images/notion.png" height="50" title="Notion">
 </div>
 
 ### Deployment
 <div>
-    <img src="images/render.png" height="50" title="Render">
+    <img src="Images/render.png" height="50" title="Render">
     <img src="Images/clever-cloud.png" height="50" title="CleverCloud">
-    <img src="images/github.png" height="50" title="Github">
+    <img src="Images/github.png" height="50" title="Github">
 </div>
 
 ## Major Projects
