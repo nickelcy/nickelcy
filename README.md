@@ -56,7 +56,7 @@ Motivated Computer Science student and experienced high school teacher with foun
 <div>
     <img src="Images/render.png" height="50" title="Render">
     <img src="Images/clever-cloud.png" height="50" title="CleverCloud">
-    <img src="Images/github.png" height="50" title="Github">
+    <img src="Images/netlify.png" height="50" title="Netlify">
 </div>
 
 ## Major Projects
