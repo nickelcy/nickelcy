@@ -59,16 +59,6 @@ Motivated Computer Science student and experienced high school teacher with foun
     <img src="Images/netlify.png" height="50" title="Netlify">
 </div>
 
-## Major Projects
-### GRMS - Grade Record Management System
-**GRMS** is a web-based application designed to streamline the process of recording, managing, and accessing student grades. It aims to replace manual grade tracking in public schools with a more efficient, secure, and user-friendly system. GRMS helps teachers and administrators manage academic records accurately, reduce paperwork, and improve overall data accessibility. 
-
-Status: In Progress | _Update: 20th May, 2025_
-
-### Portfolio Website 
-A personal website to showcase my background, skills, and projects. It will include an about section, resume, featured work, and contact form. The goal is to present my professional profile and ongoing work in a clean and accessible format.
-
-Status: Not Started | _Update: 20th May, 2025_
-
 ## Contact
 Feel free to reach out to me via email: **nickelcyfrancois01@gmail.com**
+View Portfolio: nickelcy.com
