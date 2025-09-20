@@ -61,4 +61,5 @@ Motivated Computer Science student and experienced high school teacher with foun
 
 ## Contact
 Feel free to reach out to me via email: **nickelcyfrancois01@gmail.com**
-View Portfolio: nickelcy.com
+<br />
+View Portfolio: **https://nickelcy.com**
