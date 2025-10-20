@@ -4,7 +4,7 @@ Full-Stack Web Developer, UI/UX Designer, and Data Enthusiast with hands-on expe
 
 ---
 
-## Technologies I Use & Teach
+## Technologies I Use
 
 ### Frontend
 <div>
