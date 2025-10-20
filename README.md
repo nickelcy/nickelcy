@@ -12,7 +12,6 @@ Full-Stack Web Developer, UI/UX Designer, and Data Enthusiast with hands-on expe
     <img src="Images/css.png" height="50" title="CSS">
     <img src="Images/js.png" height="50" title="JavaScript">
     <img src="Images/react-js.png" height="50" title="React.js">
-    <img src="Images/tailwind.png" height="50" title="TailwindCSS">
 </div>
 
 ### Backend & Databases
